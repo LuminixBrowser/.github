@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/LuminixBrowser.png" /></p>
+<p align="center"><img src="https://github.com/LuminixBrowser.png?size=150" /></p>
 
 <h1 align="center">Luminix</h1>
 <p align="center">A chromium-based open-source Web Browser</p>
